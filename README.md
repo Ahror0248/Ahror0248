@@ -15,7 +15,7 @@
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 ### My projects:
-- [FastFood](https://ffmeal.netlify.app)
+- [**FastFood**](https://ffmeal.netlify.app)
 
 ### Connect with me:
 
