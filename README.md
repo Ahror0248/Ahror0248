@@ -16,6 +16,8 @@
 
 ### My projects:
 - [**FastFood**](https://ffmeal.netlify.app)
+- [**Healthing**](https://healthing.netlify.app/)
+- [**MaxWay**](https://maxwaywebite.netlify.app/)
 
 ### Connect with me:
 
